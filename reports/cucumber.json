@@ -4,7 +4,7 @@
     "line": 1,
     "name": "Google Search",
     "tags": [],
-    "uri": "/home/felipe-oliveira/Desktop/cucumberjs/features/google_search.feature",
+    "uri": "/home/marcus/repos/cucumberjs/features/google_search.feature",
     "elements": [
       {
         "keyword": "Scenario",
@@ -19,11 +19,11 @@
             "name": "I open Google`s search page",
             "result": {
               "status": "passed",
-              "duration": 5349
+              "duration": 5109
             },
             "line": 5,
             "match": {
-              "location": "/home/felipe-oliveira/Desktop/cucumberjs/features/step_definitions/step.js:5"
+              "location": "/home/marcus/repos/cucumberjs/features/step_definitions/step.js:5"
             }
           },
           {
@@ -32,11 +32,11 @@
             "name": "the title is \"Google\"",
             "result": {
               "status": "passed",
-              "duration": 12
+              "duration": 27
             },
             "line": 6,
             "match": {
-              "location": "/home/felipe-oliveira/Desktop/cucumberjs/features/step_definitions/step.js:11"
+              "location": "/home/marcus/repos/cucumberjs/features/step_definitions/step.js:11"
             }
           },
           {
@@ -45,11 +45,11 @@
             "name": "the Google search form exists",
             "result": {
               "status": "passed",
-              "duration": 52
+              "duration": 57
             },
             "line": 7,
             "match": {
-              "location": "/home/felipe-oliveira/Desktop/cucumberjs/features/step_definitions/step.js:15"
+              "location": "/home/marcus/repos/cucumberjs/features/step_definitions/step.js:15"
             }
           }
         ]
@@ -67,11 +67,11 @@
             "name": "I open Google`s search page",
             "result": {
               "status": "passed",
-              "duration": 1006
+              "duration": 1623
             },
             "line": 11,
             "match": {
-              "location": "/home/felipe-oliveira/Desktop/cucumberjs/features/step_definitions/step.js:5"
+              "location": "/home/marcus/repos/cucumberjs/features/step_definitions/step.js:5"
             }
           },
           {
@@ -80,11 +80,11 @@
             "name": "the title is \"Google\"",
             "result": {
               "status": "passed",
-              "duration": 9
+              "duration": 16
             },
             "line": 12,
             "match": {
-              "location": "/home/felipe-oliveira/Desktop/cucumberjs/features/step_definitions/step.js:11"
+              "location": "/home/marcus/repos/cucumberjs/features/step_definitions/step.js:11"
             }
           },
           {
@@ -93,11 +93,11 @@
             "name": "the Google search form exists",
             "result": {
               "status": "passed",
-              "duration": 37
+              "duration": 51
             },
             "line": 13,
             "match": {
-              "location": "/home/felipe-oliveira/Desktop/cucumberjs/features/step_definitions/step.js:15"
+              "location": "/home/marcus/repos/cucumberjs/features/step_definitions/step.js:15"
             }
           }
         ]
